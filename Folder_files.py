@@ -1,16 +1,16 @@
-#This project is to map the Once drive and make and digital inventory on
+#This project is to map the OneDrive and make and digital inventory on
 # current files, current storage, old files that can be deleted, maximize current
-#storage capacity
+#storage capacity, save exptra spend on sotrage while improving operational speed in accessing information
 
 import os
 import datetime
 import csv
 
 #Root path to scan
-root_path = r"C:/Users/slong/OneDrive/"
+root_path = r"C:/Users/XXX/OneDrive/"
 
 #Output the mapped data to CSV
-file_output ="C:/Users/slong/OneDrive/Documents/folder_files.csv"
+file_output ="C:/Users/XXX/OneDrive/Documents/folder_files.csv"
 
 #Set the headers on the folder_files.csv file
 header=["folder path","File name","Extension","Size (KB)","Created Date",]
