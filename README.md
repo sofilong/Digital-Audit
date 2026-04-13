@@ -11,7 +11,8 @@
 <p>
   Digital Audit is a critical process by diagnosting on how effectively a Company is managin its storage capabilities. 
   Mapping every digital asset (file) a buinessown not only help indentify what asset to keep, backup vs asset that are no longer needed and can be safely and securely deprecated.
-  Also, it help s on economical analysis on sotrage usage to assess what storage can be refactored, avoind extra spend on extra storage while maximizing system efficiency and capabilities
+  Also, it help s on economical analysis on sotrage usage to assess what storage can be refactored, avoind extra spend on extra storage while maximizing system efficiency and capabilities.
+    <img src="Digital Audit.png" alt="Dashboard viz">
 </p>
 
 <h2>What’s here</h2>
