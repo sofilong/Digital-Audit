@@ -9,7 +9,7 @@
 
 <h2>How is this project useful?</h2>
 <p>
-  Digital Audit falls under data governance and process improvement. Becuase it evaluates how data is collected, stored, secured, accessed, and used
+  Digital Audit falls under data governance and process improvement. Because it evaluates how data is collected, stored, secured, accessed, and used
   in workflows, system behaviour that could cause bottlenecks hence impact system performance.By diagnosting on how effectively a Company is managing
   its digital assess and the storage needs it can indentify what asset to keep, locked and backup vs asset that are no longer needed and can be safely and securely deprecated.
   Also, it helps on economical analysis on storage usage (what can be refactured by removing unecessary data), avoiding extra spend on extra storage services while maximizing system
